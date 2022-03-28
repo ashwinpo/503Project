@@ -4,6 +4,9 @@ library(superml)
 fake = read.csv("Fake.csv", encoding = "UTF-8")
 true = read.csv("True.csv", encoding = "UTF-8")
 
+fake = fake[1:4]
+true = true[1:4]
+
 fake$label = rep("Fake", nrow(fake))
 true$label = rep("True", nrow(true))
 data = rbind(true, fake)
