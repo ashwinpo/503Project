@@ -20,7 +20,7 @@ test <- data[-train_ind, ]
 
 
 # initialise the class
-tfv <- TfIdfVectorizer$new(min_df = 0.1, max_df = 0.9, max_features = 800,
+tfv <- TfIdfVectorizer$new(min_df = 0.1, max_df = 0.9, max_features = 600,
                            remove_stopwords = TRUE)
 
 # we fit on train data
