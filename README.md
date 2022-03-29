@@ -1,12 +1,7 @@
 # 503Project
 
-Potential Datasets
+Resources to get started
 
-more stars indicate higher difficulty / more interesting
-
-1. [Spambase Dataset](https://archive.ics.uci.edu/ml/datasets/spambase) - Text Classification (spam/not spam) *
-2. [Fake news detection](https://www.kaggle.com/c/fake-news/data) - Text Classification (reliable/not reliable) **
-3.  [Chess win detection](https://archive.ics.uci.edu/ml/datasets/Chess+%28King-Rook+vs.+King-Pawn%29) ***
-4.  [Breast Cancer](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer) *
-5.  [Diabetes risk prediction](https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset) *
-6. [Anti-Anxitey Medicine Effect](https://www.kaggle.com/steveahn/memory-test-on-drugged-islanders-data) *
+1. [Creating nice visualization for text classification inference](https://www.r-bloggers.com/2018/12/text-classification-with-tidy-data-principles/)
+2. [Modeling using workflow in R](https://cfss.uchicago.edu/notes/supervised-text-classification/)
+3. [RandomForest example - you can basically skip to the RandomForest step](https://www.pluralsight.com/guides/machine-learning-text-data-using-r)
