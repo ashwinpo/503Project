@@ -14,7 +14,7 @@ We can start putting results from various methods in a table here:
 | **Vectorization** | **Classification Model** | **Train Size** | **Training Accuracy** | **Test Accuracy** | **Fake Test Accuracy** | **True Test Accuracy** |
 |-------------------|--------------------------|----------------|-----------------------|-------------------|------------------------|------------------------|
 |   TD-IDF          |   SVM                    |  3370          |   .9994               |     0.9395        |      0.9316            |     0.9481             |
-|   TD-IDF          |   RandomForest           |                |                       |                   |                        |                        |
+|   TD-IDF          |   RandomForest           |  3370          |  0.9409               |     0.9344        |      0.9515            |     0.9167              |
 |   TD-IDF          |   Logistic Regression    |                |                       |                   |                        |                        |
 |   ...             |                          |                |                       |                   |                        |                        |
 |   BERT            |    NN                    |                |                       |                   |                        |                        |
