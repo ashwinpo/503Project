@@ -16,5 +16,5 @@ We can start putting results from various methods in a table here:
 |   TD-IDF          |   SVM                    |  3370          |   .9994               |     0.9395        |      0.9316            |     0.9481             |
 |   TD-IDF          |   RandomForest           |  3370          |  0.9409               |     0.9344        |      0.9515            |     0.9167              |
 |   TD-IDF          |   Logistic Regression    |  3370          |  0.9997               |     0.8836        |      0.8786            |     0.8569             |
-|   ...             |                          |                |                       |                   |                        |                        |
+|   ...             |   Naive Bayes            |  3370          |  0.849                |     0.8239        |      0.7328            |     0.925             |
 |   BERT            |    NN                    |                |                       |                   |                        |                        |
